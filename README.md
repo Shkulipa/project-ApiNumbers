@@ -1,7 +1,8 @@
-https://shkulipa.github.io/project-task-book-convert-to-html/
-You can see how it looks in your browser.
+https://shkulipa.github.io/project-task-book-convert-to-html/<br />
 
-This project was bootstrapped with Create React App.
+You can see how it looks in your browser.<br />
+
+This project was bootstrapped with Create React App.<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
